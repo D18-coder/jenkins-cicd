@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: sample-app
-        image: 387224042039.dkr.ecr.ap-south-1.amazonaws.com/myapp:latest
+        image: 387224042039.dkr.ecr.ap-south-1.amazonaws.com/testrepo
         ports:
         - containerPort: 80
 ---
